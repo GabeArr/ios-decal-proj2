@@ -9,6 +9,9 @@
 import UIKit
 
 class StartScreenViewController: UIViewController {
+    
+    //MARK: Properties
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
